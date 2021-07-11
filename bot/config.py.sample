@@ -1,0 +1,5 @@
+settings = {
+    "bot_token": "",
+    "extensions_dir": "extensions",
+    "DEBUG": False
+}
